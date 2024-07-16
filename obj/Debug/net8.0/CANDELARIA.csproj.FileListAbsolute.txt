@@ -1,0 +1,14 @@
+C:\CANDELARIA\bin\Debug\net8.0\CANDELARIA.exe
+C:\CANDELARIA\bin\Debug\net8.0\CANDELARIA.deps.json
+C:\CANDELARIA\bin\Debug\net8.0\CANDELARIA.runtimeconfig.json
+C:\CANDELARIA\bin\Debug\net8.0\CANDELARIA.dll
+C:\CANDELARIA\bin\Debug\net8.0\CANDELARIA.pdb
+C:\CANDELARIA\obj\Debug\net8.0\CANDELARIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\CANDELARIA\obj\Debug\net8.0\CANDELARIA.AssemblyInfoInputs.cache
+C:\CANDELARIA\obj\Debug\net8.0\CANDELARIA.AssemblyInfo.cs
+C:\CANDELARIA\obj\Debug\net8.0\CANDELARIA.csproj.CoreCompileInputs.cache
+C:\CANDELARIA\obj\Debug\net8.0\CANDELARIA.dll
+C:\CANDELARIA\obj\Debug\net8.0\refint\CANDELARIA.dll
+C:\CANDELARIA\obj\Debug\net8.0\CANDELARIA.pdb
+C:\CANDELARIA\obj\Debug\net8.0\CANDELARIA.genruntimeconfig.cache
+C:\CANDELARIA\obj\Debug\net8.0\ref\CANDELARIA.dll
